@@ -1,2 +1,4 @@
 # resume
-this is my person information   by creating dashboard   
+the  resume   show my personal informantion of  dashboard 
+hello friend 
+hi world friend
